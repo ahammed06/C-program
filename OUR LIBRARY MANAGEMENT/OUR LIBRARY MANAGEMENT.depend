@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1438878337 source:c:\users\heartquake\desktop\our library management\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+
+1438925722 source:c:\users\asus\documents\code block\our library management\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+
